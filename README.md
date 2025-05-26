@@ -25,6 +25,8 @@ Enter a correct marks for selected subject
      •percentage 
      •grade 
      •Result ( Pass or Fail)
+     • give accurate format of Marksheet (layout)
+
 
 # TECH USED
 •Language :c
