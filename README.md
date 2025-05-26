@@ -5,13 +5,15 @@ it maintain accurate Academic card.
 
 🛠️FEATURE 
 
-•Student name 
+•Student name
 •Subject 
 •Mother name
 •Seat no.
 •Stream 
 •Marks for 5 subject
-•Calculate total percentage 
+above all are given from user
+
+•Calculate total marks and  percentage 
 •Grade assign on base of percentage
 
 📌FUNCTIONAL FLOW
