@@ -27,11 +27,16 @@ Enter a correct marks for selected subject
      •Result ( Pass or Fail)
      • give accurate format of Marksheet (layout)
 
+# How it work :
+•Enter a valid information 
+•
+
 
 # TECH USED
 •Language :c
 •Compiler:GCC/Any C Compiler
 •Platform : Terminal/Console
+
 
 
 
