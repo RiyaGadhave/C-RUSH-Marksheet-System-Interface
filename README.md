@@ -3,7 +3,17 @@ This is simple console-based marksheet interface program written in c . It simul
 it maintain accurate Academic card.
 
 
-#FUNCTIONAL FLOW
+🛠️FEATURE 
+•Student name 
+•Subject 
+•Mother name
+•Seat no.
+•Stream 
+•Marks for 5 subject
+•Calculate total percentage 
+•Grade assign on base of percentage
+
+📌FUNCTIONAL FLOW
 
  User enter their school/college Name
  Enter a class/mother name/student full name etc 
