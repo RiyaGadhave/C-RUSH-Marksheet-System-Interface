@@ -4,6 +4,7 @@ it maintain accurate Academic card.
 
 
 #FUNCTIONAL FLOW
+
  User enter their school/college Name
  Enter a class/mother name/student full name etc 
 Enter a correct marks for selected subject 
