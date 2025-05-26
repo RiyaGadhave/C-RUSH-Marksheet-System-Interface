@@ -28,8 +28,8 @@ Enter a correct marks for selected subject
      • give accurate format of Marksheet (layout)
 
 # How it work :
-•Enter a valid information 
-•
+•Enter a valid information. 
+•then this give a accurate formate of marksheet with proper percentage,grade and total marks.
 
 
 # TECH USED
