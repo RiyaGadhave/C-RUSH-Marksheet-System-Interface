@@ -30,4 +30,3 @@ Enter a correct marks for selected subject
 #SAMPLE OUTPUT 
 
 
-    
